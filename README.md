@@ -28,9 +28,6 @@ This project focuses on analyzing hotel booking data to understand customer beha
 * Cancellation Rate (%)
 * Average Daily Rate (ADR)
 
-## Dashboard Preview:-
-![Dashboard](dashboard.png)
-
 ## Key Insights:-
 
 * High lead time increases cancellation risk.
