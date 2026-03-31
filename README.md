@@ -2,7 +2,7 @@
 End-to-end data analysis project on hotel booking dataset using Python and Power BI to analyze customer behavior, cancellation patterns, and pricing trends.
 ## Dashboard Preview
 
-![Dashboard](hotel-booking-analytics-dashboard.png)
+![Dashboard](hotel-booking-dashboard.png)
 
 # 🏨 Hotel Booking Analysis & Customer Retention Dashboard #
 
